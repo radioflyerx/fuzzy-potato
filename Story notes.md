@@ -9,6 +9,7 @@ Here’s the brainstorming session summarized into clear bullet points:
 - **Criminal Elements**:  
   - An Italian mafia-like organization (local, seen as "good" by residents).  
   - A rival organization (local, potential source of conflict).  
+  - The big bad is potentially a Conspiracy that includes a much larger criminal organization in addition to the  
 
 ### **Plot Ideas**  
 - **Inciting Incident**:  
@@ -62,5 +63,5 @@ Here’s the brainstorming session summarized into clear bullet points:
 
 Would you like any refinements or expansions on specific sections?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTU2NjI0OCwtNTEzNjY2MDU4XX0=
+eyJoaXN0b3J5IjpbMTczODk1OTY0NCwtNTEzNjY2MDU4XX0=
 -->
