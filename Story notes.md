@@ -74,7 +74,7 @@ Here’s the brainstorming session summarized into clear bullet points:
 - **First Two-Thirds Matter Most**:  
   - Residents primarily identify with Bow, Middle, and Stern Train (ignoring the far rear).  
   - The far rear is seen as "non-existent" to daily life—just cargo and transient passengers.  
-  - Train has 142 cars total. 107 are primarily "resident cars". The rest are primarily cargo and traveling passengers. Our heroes live in Car 81 or are "From the 81st".
+  - Train has 142 cars total. 107 are primarily "resident cars". The rest are primarily cargo and traveling passengers. Our heroes live in **Car 81** or are "From the 81st".
 
 #### **2. Ship-Inspired Terminology**  
 - **Directional References**:  
@@ -88,8 +88,8 @@ Here’s the brainstorming session summarized into clear bullet points:
 #### **3. Cultural Perspective**  
 - **Train-Centric Worldview**:  
   - Most passengers never think about the worlds outside the train.  
-  - The far rear (Stern Train) is "invisible" to daily life—just a place for cargo and travelers passing through.  
-  - The front (Bow Train) is where the elite reside; Middle Train is the "heart" of society.  
+  - The far rear (The Outs) is "invisible" to daily life—just a place for cargo and travelers passing through.  
+  - The front (Boward) is where the elite reside; Middletrain is the "heart" of society.  
 
 #### **4. Possible Implications for Story**  
 - **Class Divide**:  
@@ -101,6 +101,6 @@ Here’s the brainstorming session summarized into clear bullet points:
 
 Would you like any refinements or additional details on how this impacts the story?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ5NzU0MzEsMTY5OTYwNDMzOCwtMT
+eyJoaXN0b3J5IjpbLTIxMjU1NzY2ODgsMTY5OTYwNDMzOCwtMT
 A4ODM2ODExNyw3MTY2MjAwNTBdfQ==
 -->
