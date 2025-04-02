@@ -37,10 +37,12 @@
 
 ## Communication Rules
 
--   **No radio/digital signals**: All communication is either:
+ -   **No radio/digital signals**: All communication is either:
 
--   Hardlined (physical connections).
--   Via "**broad sheets**" (recyclable newspaper-like bulletins).
+ -   Hardlined (physical connections).
+ -   Via "**broad sheets**" (recyclable newspaper-like bulletins).
+
+ - Delivery by courier.
 
 -   Purpose: The train/ship enforces this—possibly to control information or prevent conflict.
 
@@ -68,5 +70,5 @@
 -   **Survival**: Life on the fringe (back cars) vs. established front sections.
 -   **Exploration**: New worlds, train car "dungeons," or salvaging detached modules.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU2NDM0NDhdfQ==
+eyJoaXN0b3J5IjpbODI5MjUwNDE1LC0xNTI1NjQzNDQ4XX0=
 -->
