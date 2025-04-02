@@ -62,8 +62,42 @@ Here’s the brainstorming session summarized into clear bullet points:
 - The mafia helps investigate because chaos hurts their operations.  
 - Wild West vibe: slow justice, reliance on local power structures.  
 
-Would you like any refinements or expansions on specific sections?
+### **Train Structure & Identity**  
+
+#### **1. Train Layout & Naming Conventions**  
+- **Inspired by New York’s "Uptown/Downtown/Midtown"**:  
+  - **Bow Train** (Forward section) – Wealthier, more prestigious.  
+  - **Middle Train** (Mid-section) – Where the main story takes place.  
+  - **Stern Train** (Rear section) – Industrial, cargo, and inter-world travel (largely ignored by most passengers).  
+
+- **First Two-Thirds Matter Most**:  
+  - Residents primarily identify with Bow, Middle, and Stern Train (ignoring the far rear).  
+  - The far rear is seen as "non-existent" to daily life—just cargo and transient passengers.  
+
+#### **2. Ship-Inspired Terminology**  
+- **Directional References**:  
+  - **Bow Side** (Front of the car).  
+  - **Stern Side** (Back of the car).  
+  - **Portside & Starboard** (Left/right sides within a car).  
+- **Neighborhoods/Zones of Influence**:  
+  - Different areas within a car are named after ship terms (e.g., "Portside slums," "Starboard markets").  
+  - Social/power dynamics are tied to location (e.g., Bow Side = richer, Stern Side = rougher).  
+
+#### **3. Cultural Perspective**  
+- **Train-Centric Worldview**:  
+  - Most passengers never think about the worlds outside the train.  
+  - The far rear (Stern Train) is "invisible" to daily life—just a place for cargo and travelers passing through.  
+  - The front (Bow Train) is where the elite reside; Middle Train is the "heart" of society.  
+
+#### **4. Possible Implications for Story**  
+- **Class Divide**:  
+  - Bow Train = Privileged, Stern Train = Forgotten.  
+  - Middle Train = Mix of both (where conflicts arise).  
+- **Navigation & Identity**:  
+  - Characters might introduce themselves by their train section (e.g., "I’m from Bow Side, Carrington").  
+  - Rivalries or alliances based on location (Portside vs. Starboard gangs?).  
+
+Would you like any refinements or additional details on how this impacts the story?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDgwNTMyNCwtMTMyOTE3NTg2LC01MT
-M2NjYwNThdfQ==
+eyJoaXN0b3J5IjpbNzE2NjIwMDUwXX0=
 -->
