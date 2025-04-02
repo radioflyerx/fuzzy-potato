@@ -46,6 +46,7 @@ Here’s the brainstorming session summarized into clear bullet points:
    - Gathers information from gossip and patterns.  
    - Skilled at intelligence analysis.  
    - Debtors are slowly closing in on her.  
+   - Has a clockwork cat called Crick.
 
 ### **Themes & Tone**  
 - **Mystique**: Supernatural or eerie elements (like *Stranger Things*).  
@@ -63,5 +64,6 @@ Here’s the brainstorming session summarized into clear bullet points:
 
 Would you like any refinements or expansions on specific sections?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkxNzU4NiwtNTEzNjY2MDU4XX0=
+eyJoaXN0b3J5IjpbMTIyNDgwNTMyNCwtMTMyOTE3NTg2LC01MT
+M2NjYwNThdfQ==
 -->
