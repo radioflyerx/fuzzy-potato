@@ -4,11 +4,11 @@ Here’s the brainstorming session summarized into clear bullet points:
 - **Genre**: Mystery with action and a touch of *mystique* (supernatural or eerie undertones).  
 - **Setting**: A train car with a Wild West-like, lawless atmosphere.  
 - **Key Locations**:  
-  - A university (Carrington Middle Train) – central to the story.  
+  - A university (University of Carrington, Middletrain) – central to the story.  
   - A tea house – hub of an informal spy network.  
 - **Criminal Elements**:  
   - An Italian mafia-like organization (local, seen as "good" by residents).  
-  - A rival organization (potential source of conflict).  
+  - A rival organization (local, potential source of conflict).  
 
 ### **Plot Ideas**  
 - **Inciting Incident**:  
@@ -62,5 +62,5 @@ Here’s the brainstorming session summarized into clear bullet points:
 
 Would you like any refinements or expansions on specific sections?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzY2NjA1OF19
+eyJoaXN0b3J5IjpbMTIwOTU2NjI0OCwtNTEzNjY2MDU4XX0=
 -->
