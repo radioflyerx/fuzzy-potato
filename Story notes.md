@@ -68,7 +68,8 @@ Here’s the brainstorming session summarized into clear bullet points:
 - **Inspired by New York’s "Uptown/Downtown/Midtown"**:  
   - **Bowtrain or Boward** (Forward section) – Wealthier, more prestigious.  
   - **Middletrain** (Mid-section) – Where the main story takes place.  
-  - **Sterntrain or Downstern** (Rear section) – Industrial, cargo, and inter-world travel (largely ignored by most passengers).  
+  - **Sterntrain or Downstern** (Rear section) – Industrial, cargo, and inter-world travel (largely ignored by most passengers). 
+  - **The Outs** are what is past the resident train where most cargo and passengers stay. 
 
 - **First Two-Thirds Matter Most**:  
   - Residents primarily identify with Bow, Middle, and Stern Train (ignoring the far rear).  
@@ -100,6 +101,6 @@ Here’s the brainstorming session summarized into clear bullet points:
 
 Would you like any refinements or additional details on how this impacts the story?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTYwNDMzOCwtMTA4ODM2ODExNyw3MT
-Y2MjAwNTBdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQ5NzU0MzEsMTY5OTYwNDMzOCwtMT
+A4ODM2ODExNyw3MTY2MjAwNTBdfQ==
 -->
