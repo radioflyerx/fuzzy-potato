@@ -40,6 +40,7 @@
  -   **No radio/digital signals**: All communication is either:
 
  -   Hardlined (physical connections).
+ 
  -   Via "**broad sheets**" (recyclable newspaper-like bulletins).
 
  - Delivery by courier.
@@ -70,5 +71,5 @@
 -   **Survival**: Life on the fringe (back cars) vs. established front sections.
 -   **Exploration**: New worlds, train car "dungeons," or salvaging detached modules.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5MjUwNDE1LC0xNTI1NjQzNDQ4XX0=
+eyJoaXN0b3J5IjpbMTk0NzE4NjI3LC0xNTI1NjQzNDQ4XX0=
 -->
