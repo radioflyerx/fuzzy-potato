@@ -63,13 +63,6 @@
 -   - **Eclectic visuals**: Front cars look like advanced ships; rear cars are patchwork junk.
 
   
-
-## Gameplay Hooks
-
--   **Politics**: Factions/cars vying for power within the train’s rules.
--   **Mystery**: Origin/control of the engine, why it bans certain tech.
--   **Survival**: Life on the fringe (back cars) vs. established front sections.
--   **Exploration**: New worlds, train car "dungeons," or salvaging detached modules.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTk0NzE4NjI3LC0xNTI1NjQzNDQ4XX0=
 -->
