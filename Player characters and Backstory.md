@@ -4,7 +4,7 @@
 
 **
 
-## Ben Torres
+## Ben
 
 **
 
@@ -52,7 +52,7 @@ Has a dog name Sherlock. Distracting and lazy.
 
   
 
-## Heather McGuire
+## Heather
 
   
 
@@ -104,7 +104,7 @@ Has a clockwork cat called Crick. Perfectly silent and mischievous, but good in 
 
   
 
-## Cari Torres
+## Cari
 
   
 
@@ -156,5 +156,5 @@ Whimsy’s unofficial spy network does some services for the (unnamed mafia org)
 
 Whimsy’s establishment is always looking for “interesting” ways to make here tea more desirable and useful, so has recently been collaborating with a newly arrived chemist from Middletrain. She’s a bit unusual, but a genius with her tinctures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTgyNzcwN119
+eyJoaXN0b3J5IjpbMTgxNTAyNDgyMywtNzcxODI3NzA3XX0=
 -->
