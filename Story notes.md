@@ -1,6 +1,5 @@
-Here’s the brainstorming session summarized into clear bullet points:
 
-### **Story Elements & Setting**  
+## **Story Elements & Setting**  
 - **Genre**: Mystery with action and a touch of *mystique* (supernatural or eerie undertones).  
 - **Setting**: A train car with a Wild West-like, lawless atmosphere.  
 - **Key Locations**:  
@@ -62,7 +61,7 @@ Here’s the brainstorming session summarized into clear bullet points:
 - The mafia helps investigate because chaos hurts their operations.  
 - Wild West vibe: slow justice, reliance on local power structures.  
 
-### **Train Structure & Identity**  
+## **Train Structure & Identity**  
 
 #### **1. Train Layout & Naming Conventions**  
 - **Inspired by New York’s "Uptown/Downtown/Midtown"**:  
@@ -100,6 +99,6 @@ Here’s the brainstorming session summarized into clear bullet points:
   - Rivalries or alliances based on location (Portside vs. Starboard gangs?).  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDU5MDc1MSwxNjk5NjA0MzM4LC0xMD
-g4MzY4MTE3LDcxNjYyMDA1MF19
+eyJoaXN0b3J5IjpbOTcyNTE4ODIwLC05MTQ1OTA3NTEsMTY5OT
+YwNDMzOCwtMTA4ODM2ODExNyw3MTY2MjAwNTBdfQ==
 -->
