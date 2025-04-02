@@ -93,14 +93,13 @@ Here’s the brainstorming session summarized into clear bullet points:
 
 #### **4. Possible Implications for Story**  
 - **Class Divide**:  
-  - Bow Train = Privileged, Stern Train = Forgotten.  
-  - Middle Train = Mix of both (where conflicts arise).  
+  - Bowtrain = Privileged, Stern Train = Forgotten.  
+  - Middletrain = Mix of both.  
 - **Navigation & Identity**:  
   - Characters might introduce themselves by their train section (e.g., "I’m from Bow Side, Carrington").  
   - Rivalries or alliances based on location (Portside vs. Starboard gangs?).  
 
-Would you like any refinements or additional details on how this impacts the story?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU1NzY2ODgsMTY5OTYwNDMzOCwtMT
-A4ODM2ODExNyw3MTY2MjAwNTBdfQ==
+eyJoaXN0b3J5IjpbLTkxNDU5MDc1MSwxNjk5NjA0MzM4LC0xMD
+g4MzY4MTE3LDcxNjYyMDA1MF19
 -->
