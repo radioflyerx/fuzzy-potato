@@ -143,7 +143,5 @@ Here’s a cleaned-up version of your voice memo in bullet points:
 
 Let me know if you'd like any section expanded!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODcyOTE2LDk3MjUxODgyMCwtOTE0NT
-kwNzUxLDE2OTk2MDQzMzgsLTEwODgzNjgxMTcsNzE2NjIwMDUw
-XX0=
+eyJoaXN0b3J5IjpbMTQ2ODcyOTE2XX0=
 -->
