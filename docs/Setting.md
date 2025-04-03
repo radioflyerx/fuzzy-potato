@@ -1,4 +1,6 @@
-
+---
+layout: "post"
+---
 
 # RPG Setting: Space Train Concept
 
