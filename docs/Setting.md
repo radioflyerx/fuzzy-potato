@@ -1,6 +1,5 @@
----
-layout: "page"
----
+
+layout: page
 
 
 # RPG Setting: Space Train Concept
