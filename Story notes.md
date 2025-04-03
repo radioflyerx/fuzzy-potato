@@ -98,7 +98,52 @@
   - Characters might introduce themselves by their train section (e.g., "I’m from Bow Side, Carrington").  
   - Rivalries or alliances based on location (Portside vs. Starboard gangs?).  
 
+
+Here’s a cleaned-up version of your voice memo in bullet points:
+
+### **Mystery Campaign Brainstorm (Fate Accelerated)**  
+
+#### **Core Story Needs:**  
+- **Strong Pacing & Urgency:**  
+  - Put the players on a clock to create drive.  
+  - Needs a clear reason why *these three* are involved (tasked/volunteered).  
+  - Requires a "propeller" to push them forward (may come from players or setup).  
+
+#### **Starting the Campaign:**  
+- **In Medias Res:**  
+  - Open with an action scene (violent or high-stakes).  
+  - Idea: Players *attempt to stop something* that happens anyway (failure drives mystery).  
+  - Transition into investigation (who did it? Why? Where to go next?).  
+
+#### **Mystery Focus:**  
+- **Options Considered:**  
+  - People being killed.  
+  - People kidnapped/missing.  
+  - Objects stolen/missing.  
+- **Leaning Toward Murder:**  
+  - Recovery of an object would require too much lore upfront.  
+  - Murder ties better to escalating tensions.  
+
+#### **Refined Plot Idea:**  
+- **Factional Violence on a Train:**  
+  - Killings spark blame between rival factions.  
+  - Tensions escalate → risk of all-out war.  
+  - **The Clock:** Solve the murders before the train "resolves" the conflict (by removing those involved).  
+- **Why the Players?**  
+  - Hired by a faction leader (e.g., Laanoolce boss) who:  
+    - Doesn’t trust authorities.  
+    - Needs outsiders who can cross borders.  
+    - Offers vague reward ("worth your while").  
+
+#### **Next Steps:**  
+- Flesh out scenes based on this structure.  
+- Develop factions, key NPCs, and red herrings.  
+
+**Key Tone:** Urgent, action-driven intro leading into a whodunit with high stakes.  
+
+Let me know if you'd like any section expanded!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNTE4ODIwLC05MTQ1OTA3NTEsMTY5OT
-YwNDMzOCwtMTA4ODM2ODExNyw3MTY2MjAwNTBdfQ==
+eyJoaXN0b3J5IjpbMTQ2ODcyOTE2LDk3MjUxODgyMCwtOTE0NT
+kwNzUxLDE2OTk2MDQzMzgsLTEwODgzNjgxMTcsNzE2NjIwMDUw
+XX0=
 -->
