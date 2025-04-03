@@ -4,7 +4,7 @@
 ### Opening Scene
 - Action Intro
 - Coccolona compels the team to investigate, and provides them with two names/locations to investigate.
-- Someone is following. (this is a plot point that they would need to discover. Won't be given to them or neccessary for completion.
+- (_possibly_) Someone is following. (this is a plot point that they would need to discover. Won't be given to them or neccessary for completion.)
 
 ### First Investigation
 - Team investigates one or both places
@@ -12,6 +12,6 @@
 - - Add in some more "loose pin" clues that allow for them to sus out a bit more about story
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMzAzMzE3LDU4MTYzMzU3NSwtNjcwOT
-YwNzExXX0=
+eyJoaXN0b3J5IjpbLTEyNDk0MTcwLDQ0MTMwMzMxNyw1ODE2Mz
+M1NzUsLTY3MDk2MDcxMV19
 -->
