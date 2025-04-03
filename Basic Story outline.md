@@ -9,9 +9,9 @@
 ### First Investigation
 - Team investigates one or both places
 - - Have a "red cord" clue (Make sure there are at least 3 of these to find or three ways to discover)
-- - Add in some more "loose pin" clues that allow for them to sus out a bit more about story
+- - Add in some more "loose pins", clues that allow for them to sus out a bit more about story
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk0MTcwLDQ0MTMwMzMxNyw1ODE2Mz
-M1NzUsLTY3MDk2MDcxMV19
+eyJoaXN0b3J5IjpbLTEzNTg2MjM2MjMsLTEyNDk0MTcwLDQ0MT
+MwMzMxNyw1ODE2MzM1NzUsLTY3MDk2MDcxMV19
 -->
