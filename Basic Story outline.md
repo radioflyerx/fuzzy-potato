@@ -15,6 +15,5 @@
 - Clues lead the team to the dockmaster who both of the other victims were connected too.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDUxOTA4NywtMTI0OTQxNzAsNDQxMz
-AzMzE3LDU4MTYzMzU3NSwtNjcwOTYwNzExXX0=
+eyJoaXN0b3J5IjpbMTY3NDUxOTA4N119
 -->
