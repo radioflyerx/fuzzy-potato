@@ -10,8 +10,11 @@
 - Team investigates one or both places
 - - Have a "red cord" clue (Make sure there are at least 3 of these to find or three ways to discover)
 - - Add in some more "loose pins", clues that allow for them to sus out a bit more about story
+### Talk to the dockmaster
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg2MjM2MjMsLTEyNDk0MTcwLDQ0MT
-MwMzMxNyw1ODE2MzM1NzUsLTY3MDk2MDcxMV19
+eyJoaXN0b3J5IjpbMTQzNDI0MzQ0MSwtMTI0OTQxNzAsNDQxMz
+AzMzE3LDU4MTYzMzU3NSwtNjcwOTYwNzExXX0=
 -->
