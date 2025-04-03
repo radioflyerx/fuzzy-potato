@@ -12,9 +12,9 @@
 - - Add in some more "loose pins", clues that allow for them to sus out a bit more about story
 ### Talk to the dockmaster
 
-
+- Clues lead the team to the dockmaster who both of the other victims were connected too.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDI0MzQ0MSwtMTI0OTQxNzAsNDQxMz
+eyJoaXN0b3J5IjpbMTY3NDUxOTA4NywtMTI0OTQxNzAsNDQxMz
 AzMzE3LDU4MTYzMzU3NSwtNjcwOTYwNzExXX0=
 -->
