@@ -130,7 +130,7 @@ Here’s a cleaned-up version of your voice memo in bullet points:
   - Tensions escalate → risk of all-out war.  
   - **The Clock:** Solve the murders before the train "resolves" the conflict (by removing those involved).  
 - **Why the Players?**  
-  - Hired by a faction leader (e.g., Laanoolce boss) who:  
+  - Hired by a faction leader (e.g., La Mano Dolce boss) who:  
     - Doesn’t trust authorities.  
     - Needs outsiders who can cross borders.  
     - Offers vague reward ("worth your while").  
@@ -143,5 +143,5 @@ Here’s a cleaned-up version of your voice memo in bullet points:
 
 Let me know if you'd like any section expanded!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODcyOTE2XX0=
+eyJoaXN0b3J5IjpbMTMwNTU0NzYxMywxNDY4NzI5MTZdfQ==
 -->
