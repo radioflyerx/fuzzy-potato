@@ -4,7 +4,7 @@
 ### Opening Scene
 - Action Intro
 - Coccolona compels the team to investigate, and provides them with two names/locations to investigate.
-- ***Important Note*** Someone is following. (this is a plot point that they would need to discover. Won't be given to them or neccessary for completion.)
+- **Important Note** Someone is following. (this is a plot point that they would need to discover. Won't be given to them or neccessary for completion.)
 ### First Investigation
 - Team investigates one or both places
 - - Have a "red cord" clue (Make sure there are at least 3 of these to find or three ways to discover)
@@ -16,5 +16,5 @@
 - Compartment contains _the artifact_ which it's then revealed the baddies were after the whole time, and have used the team to find.
 - Optional detail here is that Coccolona was involved the whole time and has used the team to find the artifact.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwNzA4MjM1LDE2NzQ1MTkwODddfQ==
+eyJoaXN0b3J5IjpbMTkwNjIzNDczMSwxNjc0NTE5MDg3XX0=
 -->
