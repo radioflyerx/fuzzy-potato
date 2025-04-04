@@ -156,7 +156,7 @@ Here’s a concise summary of your storyline notes:
    - The final revelation involves a **larger conspiracy** (hinted via cutscene) tied to a valuable **train artifact**.  
 
 4. **Final Action Sequence**:  
-   - Takes place in a **hidden compartment (Car 81)**, where the team battles the conspirators.  
+   - Takes place in a **hidden compartment in Car 81)**, where the team battles the conspirators.  
    - The **artifact is stolen**, but the team learns:  
      - The killers’ identities.  
      - The conspiracy is bigger, potentially leading to future adventures in other train cars.  
@@ -174,5 +174,6 @@ Here’s a concise summary of your storyline notes:
 This sets up a **mystery with action, choices, and a bigger plot hook** for future stories.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE0NjExNjEsMjEyMTk3NTI1OF19
+eyJoaXN0b3J5IjpbLTE5NzE2MDY1MTgsLTE3ODE0NjExNjEsMj
+EyMTk3NTI1OF19
 -->
