@@ -144,7 +144,7 @@ Here’s a cleaned-up version of your voice memo in bullet points:
 Here’s a concise summary of your storyline notes:
 
 ### **Storyline Overview**  
-1. **Opening Action Scene**: The story begins with a fight or action sequence that serves as the "call to action." After it concludes, the team receives a message (via courier) from **La Man Doge's leader**, who recruits them to investigate killings and disappearances threatening to spark a gang war.  
+1. **Opening Action Scene**: The story begins with a fight or action sequence that serves as the "call to action." After it concludes, the team receives a message (via courier) from **La Mano Dolce leader**, who recruits them to investigate killings and disappearances threatening to spark a gang war.  
 
 2. **Investigation Setup**:  
    - The leader provides **two leads**—one local (safe) and one in rival gang territory (risky).  
@@ -174,5 +174,5 @@ Here’s a concise summary of your storyline notes:
 This sets up a **mystery with action, choices, and a bigger plot hook** for future stories.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTk3NTI1OF19
+eyJoaXN0b3J5IjpbLTE3ODE0NjExNjEsMjEyMTk3NTI1OF19
 -->
