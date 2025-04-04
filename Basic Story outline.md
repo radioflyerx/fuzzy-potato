@@ -14,6 +14,7 @@
 ### Find hidden compartment
 - Need clues that will make this feasible.
 - Compartment contains _the artifact_ which it's then revealed the baddies were after the whole time, and have used the team to find.
+- Optional detail here is that Coccolona was involved the whole time and has used the team to find the artifact.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjc4Mzk2NywxNjc0NTE5MDg3XX0=
+eyJoaXN0b3J5IjpbMTc2NjU2NDUzMywxNjc0NTE5MDg3XX0=
 -->
