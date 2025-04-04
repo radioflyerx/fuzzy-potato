@@ -14,7 +14,8 @@
 
 - Clues lead the team to the dockmaster who both of the other victims were connected too.
 ### Find Hidden Compartment
-- Need clues that will make this 
+- Need clues that will make this feasible.
+- Compartment contains _the artifact_ which it's then revealed the baddies were after the whole time, and have used the team to find.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQyODM2NDMsMTY3NDUxOTA4N119
+eyJoaXN0b3J5IjpbLTY4NjMyMzU1MSwxNjc0NTE5MDg3XX0=
 -->
