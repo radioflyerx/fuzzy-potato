@@ -190,6 +190,5 @@ This sets up a **mystery with action, choices, and a bigger plot hook** for futu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE5NTE3MjksLTE5NzE2MDY1MTgsLT
-E3ODE0NjExNjEsMjEyMTk3NTI1OF19
+eyJoaXN0b3J5IjpbLTE1MjE5NTE3MjldfQ==
 -->
